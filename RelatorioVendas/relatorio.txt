@@ -1,0 +1,13 @@
+
+Relatório de Vendas
+--------------------
+
+Total de Vendas por Produto:
+Produto A: R$ 259.87
+Produto B: R$ 149.95
+
+Total de Vendas por Dia:
+2024-08-15: R$ 349.85
+2024-08-16: R$ 59.97
+
+Total Geral de Vendas: R$ 409.82
